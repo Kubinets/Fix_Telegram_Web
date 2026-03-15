@@ -1,0 +1,42 @@
+@echo off
+set "hostsPath=%SystemRoot%\System32\drivers\etc\hosts"
+
+:: Добавляем записи в hosts
+echo 149.154.167.220 vesta.web.telegram.org >> %hostsPath%
+echo 149.154.167.220 vesta-1.web.telegram.org >> %hostsPath%
+echo 149.154.167.220 aurora.web.telegram.org >> %hostsPath%
+echo 149.154.167.220 aurora-1.web.telegram.org >> %hostsPath%
+echo 149.154.167.220 flora-1.web.telegram.org >> %hostsPath%
+echo 149.154.167.220 venus-1.web.telegram.org >> %hostsPath%
+echo 149.154.167.220 telegram.me >> %hostsPath%
+echo 149.154.167.220 telegram.dog >> %hostsPath%
+echo 149.154.167.220 telegram.space >> %hostsPath%
+echo 149.154.167.220 telesco.pe >> %hostsPath%
+echo 149.154.167.220 tg.dev >> %hostsPath%
+echo 149.154.167.220 telegram.org >> %hostsPath%
+echo 149.154.167.220 t.me >> %hostsPath%
+echo 149.154.167.220 telegram.me >> %hostsPath%
+echo 149.154.167.220 tg.dev >> %hostsPath%
+echo 149.154.167.220 telesco.pe >> %hostsPath%
+echo 149.154.167.220 api.telegram.org >> %hostsPath%
+echo 149.154.167.220 pluto.web.telegram.org >> %hostsPath%
+echo 149.154.167.220 pluto-1.web.telegram.org >> %hostsPath%
+echo 149.154.167.220 flora.web.telegram.org >> %hostsPath%
+echo 149.154.167.220 td.telegram.org >> %hostsPath%
+echo 149.154.167.220 venus.web.telegram.org >> %hostsPath%
+echo 149.154.167.220 web.telegram.org >> %hostsPath%
+echo 149.154.167.220 kws1-1.web.telegram.org >> %hostsPath%
+echo 149.154.167.220 kws1.web.telegram.org >> %hostsPath%
+echo 149.154.167.220 kws2-1.web.telegram.org >> %hostsPath%
+echo 149.154.167.220 kws2.web.telegram.org >> %hostsPath%
+echo 149.154.167.220 kws4-1.web.telegram.org >> %hostsPath%
+echo 149.154.167.220 kws4.web.telegram.org >> %hostsPath%
+echo 149.154.167.220 kws5-1.web.telegram.org >> %hostsPath%
+echo 149.154.167.220 kws5.web.telegram.org >> %hostsPath%
+echo 149.154.167.220 zws1-1.web.telegram.org >> %hostsPath%
+echo 149.154.167.220 zws1.web.telegram.org >> %hostsPath%
+echo 149.154.167.220 zws2-1.web.telegram.org >> %hostsPath%
+echo 149.154.167.220 zws2.web.telegram.org >> %hostsPath%
+echo 149.154.167.220 zws4-1.web.telegram.org >> %hostsPath%
+echo 149.154.167.220 zws5-1.web.telegram.org >> %hostsPath%
+echo 149.154.167.220 zws5.web.telegram.org >> %hostsPath%
